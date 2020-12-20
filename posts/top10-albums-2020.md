@@ -8,6 +8,6 @@ date: '2020-12-20'
 Essa é a minha lista:
 
 **Fiona Apple - Fetch The Bolt Cutters**
-![Capa do Fetch](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpitchfork.com%2Freviews%2Falbums%2Ffiona-apple-fetch-the-bolt-cutters%2F&psig=AOvVaw2V5iiyCL7Lqq6d6Hl9AygF&ust=1608576141876000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj6op-b3e0CFQAAAAAdAAAAABAD)
+![Capa do Fetch](https://media.pitchfork.com/photos/5e98fd8b34830c0008097f47/1:1/w_320/FIONAAPPLECOVER.jpg)
 
 Pronto, nada mais importa. Um beijo.
