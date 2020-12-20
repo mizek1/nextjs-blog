@@ -22,8 +22,12 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Apenas testando algumas coisinhas no Next.js... Será se vai servir pra
-          uma dashboard? Veremos...
+          NÃO LEVE ISSO AQUI A SÉRIO, OK??? É apenas um teste que eu tô fazendo
+          utilizando o tutorial base do Next.js como framework e aprendendo
+          algumas coisas sobre ele e desenvolvimento com React. Nem sei onde
+          isso aqui vai chegar, nem pretendo que seja longe. Apenas
+          aprendizados, companheiros... E lembrem-se: Fiona Apple maior
+          musicista viva e nada mais importa. Nem sua opinião. Um xero.
         </p>
       </section>
 
